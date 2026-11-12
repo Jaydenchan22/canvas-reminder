@@ -41,8 +41,8 @@ ASSIGNMENTS
 Requires **Python 3.10+** (on Windows, tick "Add python.exe to PATH" when installing).
 
 ```powershell
-git clone https://github.com/<your-username>/<this-repo>.git
-cd <this-repo>
+git clone https://github.com/Jaydenchan22/canvas-reminder.git
+cd canvas-reminder
 python -m venv .venv
 .\.venv\Scripts\pip install -r requirements.txt     # macOS/Linux: .venv/bin/pip install -r requirements.txt
 ```
