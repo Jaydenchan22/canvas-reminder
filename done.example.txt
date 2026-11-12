@@ -1,0 +1,6 @@
+# Copy this file to done.txt (done.txt is git-ignored, so your progress stays private).
+# One keyword per line for things you've finished. Any item whose title contains
+# that text (case-insensitive) is hidden from reminders.
+# Examples:
+# WW Assignment 7
+# Lab 7: Interfaces

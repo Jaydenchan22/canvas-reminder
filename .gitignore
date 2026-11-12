@@ -1,0 +1,7 @@
+# Personal - never commit
+.env
+done.txt
+
+.venv/
+__pycache__/
+*.log
